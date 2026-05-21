@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-rest-api-and-server-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch ./src/server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-peyas9911/Node.js-REST-API-Development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-peyas9911/Node.js-REST-API-Development/issues"
+  },
+  "homepage": "https://github.com/dev-peyas9911/Node.js-REST-API-Development#readme",
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "tsx": "^4.22.3"
+  }
+}
